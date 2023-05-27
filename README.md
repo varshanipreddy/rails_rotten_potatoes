@@ -1,0 +1,2 @@
+# rails_rotten_potatoes
+rottenpotatoes
